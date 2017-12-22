@@ -1,6 +1,6 @@
 param(
-    $keyvaultname = "spectrekv",
-    $keyvaultprefix = "sdepw-"
+    $keyvaultname = "",
+    $keyvaultprefix = ""
 )
 
 #libs
